@@ -2,7 +2,7 @@ body {
   text-align: center;
   height: 300px;
   display: block;
-  background-image: url("root/images/pattern-background-desktop.svg");
+  background-image: url("/Order-summary-component-challenge/images/pattern-background-desktop.svg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
