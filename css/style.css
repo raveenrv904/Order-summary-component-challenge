@@ -1,0 +1,105 @@
+body {
+  text-align: center;
+  height: 300px;
+  display: block;
+  background-image: url("C:/Users/ELCOT/Desktop/Web Project/images/pattern-background-desktop.svg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  font-family: 'Roboto', sans-serif;
+  background-color: #b6ccfe;
+}
+
+p {
+  color: #5c677d;
+  font-size: 13px;
+  line-height: 20px;
+  font-weight: inherit;
+  text-shadow: 0px 3px 11px #5c677d;
+
+}
+
+.top-container {
+  margin: auto;
+  background-color: #ffffff;
+  width: 350px;
+  align-self:center;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  border-radius: 0px 0px 20px 20px;
+}
+img {
+  border-radius: 20px 20px 0px 0px;
+  max-width: 350px;
+}
+.bottom-container {
+  padding: 0px 40px 40px 40px;
+}
+
+.annual-plan , .money{
+  display: flex;
+  margin: 5px 5px;
+}
+
+.plan {
+  display: flex;
+  /* border: 2px solid blue; */
+  /* background-color: #e5e5e5; */
+  padding-top: 12px;
+  padding-left: 5px;
+  border-radius: 7px;
+  margin: 30px auto;
+}
+.hero {
+  background-color: #D6E1FF;
+}
+img.player {
+  max-width: 40px;
+  max-height: 40px;
+  margin-top: 6px;
+}
+.change {
+  margin-left: 70px;
+  margin-top: 15px;
+  font-size: 15px;
+  font-weight: bolder;
+  color: #3b28cc;
+}
+p.money {
+    font-size: smaller;
+}
+h2.annual-plan {
+    font-size: 15px;
+    color: #0a2463;
+}
+.plan1 {
+  margin-left: 9px;
+  margin-bottom: 7px;
+}
+
+h1 {
+  color: #0a2463;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  font-size: 25px;
+  font-family: 'Roboto', sans-serif;
+}
+input {
+  font-size: 15px;
+  background-color: #3b28cc;
+  color: #fff;
+  font-weight: bolder;
+  font-size: 15px;
+  padding: 10px 65px 10px 65px;
+  border-radius: 10px;
+  box-shadow: 0px 13px 19px #bfcae0;
+  border-style: none;
+}
+.payment {
+  display: grid;
+}
+.cancel {
+  margin-top: 15px;
+  text-decoration: none;
+  font-size: 15px;
+}
